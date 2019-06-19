@@ -1,2 +1,2 @@
 # web_akademik
-Web dengan menggunakan PHP 7.2 dan Framework Laravel 5.3
+Web dengan menggunakan PHP 7.1 dan Framework Laravel 5.3 masih dalam pengembangan
